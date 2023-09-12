@@ -1,0 +1,47 @@
+/* Reset Browser */
+* {
+  padding: 0; /*Khoang cach PT*/
+  margin: 0;  /*Khoang cach PT*/
+}
+
+/* Trong 1 trang class co the trung nhau */
+.heading-1 {
+  color: red;
+}
+.heading-2 {
+  color: blue;
+}
+
+/* Goi id trong CSS */
+#title-1 {
+  color: green;
+}
+#title-2 {
+  color: orange;
+}
+
+/* Vi du: X Y */
+.box-content h4 {
+  color: black;
+}
+h4 {
+  color: pink;
+}
+h5 {
+  color: red;
+}
+
+/* Vidu: link */
+a:link {
+  /* Chua duoc tro */
+  color: black;
+}
+a:visited {
+  /* Duoc tro roi  */
+  color: red;
+}
+
+/*  Thuoc tinh CSS hay su dung  */
+.box-1 {
+  
+}
